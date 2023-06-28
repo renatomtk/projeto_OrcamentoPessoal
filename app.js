@@ -109,7 +109,6 @@ class Bd {
 			despesasFiltradas = despesasFiltradas.filter(d => d.valor == despesa.valor)
 		}
 
-		
 		return despesasFiltradas
 
 	}
